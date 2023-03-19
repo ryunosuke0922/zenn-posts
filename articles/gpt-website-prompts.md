@@ -3,7 +3,7 @@ title: "Chat GPTを使って開発中に出会った、良さげなプロンプ�
 emoji: "📚"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: [ChatGPT,Next.js]
-published: false
+published: true
 ---
 
 Chat GPTを使って、簡単サイトを作っている時に良さげなプロンプトがありましたので紹介します。
