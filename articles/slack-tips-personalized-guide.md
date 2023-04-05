@@ -1,6 +1,6 @@
 ---
-title: "Slack活用法: 自分なりにまとめたガイド"
-emoji: "📚"
+title: "Slackの使い方: 自分なりにまとめたガイド"
+emoji: "☕️"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: [Slack]
 published: true
